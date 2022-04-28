@@ -1,14 +1,8 @@
 <h2 align="left">Senior Blockchain & Full-Stack Engineer</h2>
 <p>
-  <p>
-    <img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
-  </p>
-  <p>
-  Hi there<br>
-  I'm a Skilled Professional Developer.<br><br>
-  I have been working in web and mobile development for 10+ years.<br><br>
-  My projects include building UI for web and mobile, Web 3D animation & AR/VR, backend & 3rd party API integration, web scraping & crawling, and more.<br><br>
-  🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
+  Hi, I am a Senior Blockchain and Full Stack Engineer. I have more than 8 years of experience in web & blockchain technology development and IT consult. I own a strong hold on different skills such as Solidity, Rust, Ethereum, Binance, React, Next, MUI, Antd, Vue, Nuxt, Vuetify, Qusasar, Node, Express, Nest, React Native, Flutter, Electron, HTML, CSS, JavaScript, TypeScript, etc. <br />
+  Passionate about launching, developing, and maintaining web and mobile projects requiring a broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and back-end development, mobile app development, system and application security, auditing and project management and blockchain technology.
+  Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
 </p>
 <p align="center">
   <a href="https://github.com/superstar1014"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20Software%20engineer;10+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
