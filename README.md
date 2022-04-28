@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Senior Blockchain and Full Stack Engineer. <br />
+I am a Senior Blockchain and Full Stack Engineer. <br/>
 I have more than 8 years of experience in web & blockchain technology development and IT consult. 
 
 I own a strong hold on different skills such as Solidity, Rust, Ethereum, Binance, Web3, React, Next, MUI, Antd, Vue, Nuxt, Vuetify, Qusasar, Node, Express, Nest, PHP, Python, Django, React Native, Flutter, Electron, HTML, CSS, JavaScript, TypeScript, etc.
@@ -25,5 +25,5 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=superstar1014&show_icons=true&count_private=true&theme=algolia"/>
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=storyofsoft&layout=compact&theme=algolia&langs_count=8&count_private=true" /> <br/>
 <img height="100px" />
-<br>
+<br/><br/>
 <img src="https://activity-graph.herokuapp.com/graph?username=superstar1014&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
