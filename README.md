@@ -25,5 +25,5 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=superstar1014&show_icons=true&count_private=true&theme=algolia"/>
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=storyofsoft&layout=compact&theme=algolia&langs_count=8&count_private=true" /> <br/>
 <img height="100px" />
-<br><br><br><br>
+<br>
 <img src="https://activity-graph.herokuapp.com/graph?username=superstar1014&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
