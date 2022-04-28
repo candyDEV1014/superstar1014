@@ -15,6 +15,15 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
   <a href="https://github.com/superstar1014"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Blockchain%20Full-Stack%20engineer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 
+<h1 align="center"></h1>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=superstar1014&show_icons=true&count_private=true&theme=algolia"/>
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=storyofsoft&layout=compact&theme=algolia&langs_count=8&count_private=true" /> <br/>
+<img height="100px" />
+<br><br><br><br>
+<img src="https://activity-graph.herokuapp.com/graph?username=superstar1014&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<br/>
+
+
 <b> 🎬 I am ready to start your project immediately.</b>
 ## My Core Skill Stack
 - 💽 <b>Programming Languages</b> : Python, C++/C#, QT, JavaScript, TypeScript, PHP, HTML/HTML5, CSS/SCSS/SASS
