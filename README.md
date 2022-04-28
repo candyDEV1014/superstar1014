@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Senior Blockchain and Full Stack Engineer. 
+I am a Senior Blockchain and Full Stack Engineer. <br />
 I have more than 8 years of experience in web & blockchain technology development and IT consult. 
 
 I own a strong hold on different skills such as Solidity, Rust, Ethereum, Binance, React, Next, MUI, Antd, Vue, Nuxt, Vuetify, Qusasar, Node, Express, Nest, PHP, Python, Django, React Native, Flutter, Electron, HTML, CSS, JavaScript, TypeScript, etc.
