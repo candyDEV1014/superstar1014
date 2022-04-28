@@ -1,9 +1,16 @@
-<h2 align="left">Senior Blockchain & Full-Stack Engineer</h2>
-<p>
-  Hi, I am a Senior Blockchain and Full Stack Engineer. I have more than 8 years of experience in web & blockchain technology development and IT consult. I own a strong hold on different skills such as Solidity, Rust, Ethereum, Binance, React, Next, MUI, Antd, Vue, Nuxt, Vuetify, Qusasar, Node, Express, Nest, PHP, Python, Django, React Native, Flutter, Electron, HTML, CSS, JavaScript, TypeScript, etc. <br />
-  Passionate about launching, developing, and maintaining web and mobile projects requiring a broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and back-end development, mobile app development, system and application security, auditing and project management and blockchain technology.<br />
-  Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
-</p>
+### Hi there 👋
+
+I am a Senior Blockchain and Full Stack Engineer. 
+I have more than 8 years of experience in web & blockchain technology development and IT consult. 
+
+I own a strong hold on different skills such as Solidity, Rust, Ethereum, Binance, React, Next, MUI, Antd, Vue, Nuxt, Vuetify, Qusasar, Node, Express, Nest, PHP, Python, Django, React Native, Flutter, Electron, HTML, CSS, JavaScript, TypeScript, etc.
+
+
+Passionate about launching, developing, and maintaining web and mobile projects requiring a broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and back-end development, mobile app development, system and application security, auditing and project management and blockchain technology.
+
+
+Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
+
 <p align="center">
   <a href="https://github.com/superstar1014"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Blockchain%20Full-Stack%20engineer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
