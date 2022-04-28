@@ -3,7 +3,7 @@
 I am a Senior Blockchain and Full Stack Engineer. <br />
 I have more than 8 years of experience in web & blockchain technology development and IT consult. 
 
-I own a strong hold on different skills such as Solidity, Rust, Ethereum, Binance, React, Next, MUI, Antd, Vue, Nuxt, Vuetify, Qusasar, Node, Express, Nest, PHP, Python, Django, React Native, Flutter, Electron, HTML, CSS, JavaScript, TypeScript, etc.
+I own a strong hold on different skills such as Solidity, Rust, Ethereum, Binance, Web3, React, Next, MUI, Antd, Vue, Nuxt, Vuetify, Qusasar, Node, Express, Nest, PHP, Python, Django, React Native, Flutter, Electron, HTML, CSS, JavaScript, TypeScript, etc.
 
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and back-end development, mobile app development, system and application security, auditing and project management and blockchain technology.
@@ -19,7 +19,7 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
-####      ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/React-blue)  ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Database-blue) ![](https://img.shields.io/badge/Tailwind-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/Web3.js-blue) ![](https://img.shields.io/badge/Ethers.js-blue) ![](https://img.shields.io/badge/Blockchain-blue) ![](https://img.shields.io/badge/Ethereum-blue) ![](https://img.shields.io/badge/Solidity-blue) ![](https://img.shields.io/badge/Solana-blue) ![](https://img.shields.io/badge/Tezos-blue) ![](https://img.shields.io/badge/Web3-blue) ![](https://img.shields.io/badge/Smart%Contract-blue)
+####      ![](https://img.shields.io/badge/Blockchain-blue) ![](https://img.shields.io/badge/Ethereum-blue) ![](https://img.shields.io/badge/Smart%Contract-blue) ![](https://img.shields.io/badge/Solidity-blue) ![](https://img.shields.io/badge/Solana-blue) ![](https://img.shields.io/badge/Web3-blue) ![](https://img.shields.io/badge/Ethers.js-blue) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Nest-blue) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/React%Native-blue) ![](https://img.shields.io/badge/Electron-blue) ![](https://img.shields.io/badge/Flutter-blue) ![](https://img.shields.io/badge/Database-blue) ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/TypeScript-blue) ![](https://img.shields.io/badge/Tailwind-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/Firebase-blue) 
 
 <h1 align="center" style="margin-bottom: 24px;"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=superstar1014&show_icons=true&count_private=true&theme=algolia"/>
